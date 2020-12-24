@@ -1,0 +1,11 @@
+{
+    "name": "@paulisystems/hithere",
+    "description": "Exercise Lessons 63+ of NodeCLI course by Ahman Awais",
+    "version": "0.0.1",
+    "bin": {
+        "hello": "index.js"
+    },
+    "dependencies": {
+        "execa": "^5.0.0"
+    }
+}
