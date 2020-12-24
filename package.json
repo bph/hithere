@@ -6,6 +6,7 @@
         "hello": "index.js"
     },
     "dependencies": {
-        "execa": "^5.0.0"
+        "execa": "^5.0.0",
+        "shelljs": "^0.8.4"
     }
 }
